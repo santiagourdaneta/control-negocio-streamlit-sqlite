@@ -1,0 +1,40 @@
+# Archivos de la base de datos SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+.env/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Archivos de Pytest
+.pytest_cache/
+.coverage
+
+# Archivos de configuración de Streamlit
+.streamlit/
+streamlit_debug.log
+
+# Archivos de IDEs (ej. VS Code, PyCharm)
+.vscode/
+.idea/
+*.iml
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Archivos de registro
+*.log
+*.txt.log
+
+# Otros archivos generados
+.DS_Store # macOS
+Thumbs.db # Windows
